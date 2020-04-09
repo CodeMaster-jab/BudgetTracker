@@ -26,6 +26,6 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Links
 * [Repository](https://github.com/CodeMaster-jab/BudgetTracker)
-* [Heroku Application](https://infinite-depths-55438.herokuapp.com/)
+* [Heroku Application](https://lit-sierra-56683.herokuapp.com/)
 
 
